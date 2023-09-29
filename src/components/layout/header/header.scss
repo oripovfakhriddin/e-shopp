@@ -1,0 +1,20 @@
+header{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #109BE9;
+}
+
+.header__container{
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+
+.nav__list{
+  display: flex;
+  gap: 30px;
+}
+
+.nav__item a{
+    color: white;
+  }

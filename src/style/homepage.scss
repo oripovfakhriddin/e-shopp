@@ -1,0 +1,21 @@
+.homepage__title{
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+
+.count__box{
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  background-color: rgb(236, 174, 57);
+  margin-bottom: 20px;
+}
+
+.all__products__box{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 20px;
+  row-gap: 40px;
+  
+}
